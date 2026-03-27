@@ -57,7 +57,7 @@ def ficha():
     print(f"Nombre para archivo: {guion}")
 
 
-    print(f"Cantidad de a: {nombre.count("a")}")
+    print(f"Cantidad de a: {nombre.count('a')}")
 
 
     print(f"Codigo secreto: {nombre.upper()[::-1]}")

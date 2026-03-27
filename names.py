@@ -4,7 +4,7 @@ def names():
     """
     nombre = input("Ingrese nombre: ")
     apellido = input("Ingrese apellido: ")
-    nombre_apellido = f'{nombre} {apellido}'
+    nombre_apellido = f"{nombre} {apellido}"
 
     print(nombre_apellido.lower())
     print(nombre_apellido.title())

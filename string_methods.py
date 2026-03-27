@@ -22,7 +22,7 @@ def string_methods():
 
     print(f"Find: {Find}")
 
-    Cambio = frase.replace("programacion", "desarrollo")
+    Cambio = frase.replace("programacion", 'desarrollo')
     print(f"Replace: {Cambio}")
 
     contar = frase.count("a")
@@ -45,7 +45,7 @@ def string_methods():
     print(f"Formato: {nombre.strip()} sabe {slicing}")
 
 
-    print(f"{multilinea.replace("    ", "")}")
+    print(f"{multilinea.replace('    ', '')}")
 
 
 
