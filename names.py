@@ -11,5 +11,5 @@ def names():
     print(nombre_apellido.upper())
     print(f"\t{nombre_apellido.lower()}")
 
-    pass
+
 

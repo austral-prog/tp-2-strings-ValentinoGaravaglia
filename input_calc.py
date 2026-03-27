@@ -19,4 +19,4 @@ def rectangle():
 
     print("Perimetro: " + str(perimetro))
 
-    pass
+

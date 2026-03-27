@@ -26,11 +26,11 @@ def ficha():
     #   - Cierre decorativo usando repetición de string ("=" * 24)
 
 
-    nombre = input("Ingrese nombre: ")
-    email = input("Ingrese email: ")
-    nota1 = input("Ingrese nota 1: ")
-    nota2 = input("Ingrese nota 2: ")
-    nota3 = input("Ingrese nota 3: ")
+    nombre = input()
+    email = input()
+    nota1 = input()
+    nota2 = input()
+    nota3 = input()
 
     nombre = nombre.strip().title()
     email = email.lower()

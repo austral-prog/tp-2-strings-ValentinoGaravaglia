@@ -20,7 +20,7 @@ def casting():
     print("Total: " + str(total))
 
 
-    pass
+
 
 
 

@@ -8,4 +8,3 @@ def slice_advanced():
 
 
 
-    pass
